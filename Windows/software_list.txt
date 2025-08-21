@@ -1,13 +1,8 @@
 OpenVPNTechnologies.OpenVPNConnect
-Microsoft.VisualStudioCode
 Microsoft.Teams
-#Microsoft.WSL
-#Docker.DockerDesktop
-Postman.Postman
 ONLYOFFICE.DesktopEditors
 AnyDeskSoftwareGmbH.AnyDesk
 Git.Git
-OpenJS.NodeJS.LTS
 Python.Python.3.12
 7zip.7zip
 Google.Chrome
